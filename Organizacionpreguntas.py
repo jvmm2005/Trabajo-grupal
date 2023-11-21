@@ -1,5 +1,5 @@
 from PreguntasCiencia import science_questions
-from history_cuestions import history_cuestions
+from history_cuestion1 import history_cuestions
 def pregunta(tema):
     for index, question in enumerate(tema, start=1):
         print(f"Question {index}: {question.pregunta}")
