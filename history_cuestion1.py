@@ -10,6 +10,6 @@ history_cuestions = [
     preguntas("When did the French Revolution take place?", "1776", "1789", "1848", "1765"),
     preguntas("What was the ancient capital of the Roman Empire?", "Athens", "Rome", "Constantinople", "Paris"),
     preguntas("In what year was the League of Nations founded?", "1919", "1925", "1933", "1908"),
-    preguntas("Who was the leader of the Indian resistance against British rule?", "Jawaharlal Nehru", "Mohandas Gandhi", "Subhas Chandra Bose", "Bhagat Singh")
+    preguntas("Who was the leader of the Indian resistance against British rule?", "Jawaharlal Nehru", "Mohandas Gandhi", "Subhas Chandra Bose", "Bhagat Singh"),
 
 ]
