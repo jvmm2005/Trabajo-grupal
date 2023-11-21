@@ -1,5 +1,3 @@
-import random
-import ClasePreguntas
 from PreguntasCiencia import science_questions
 
 
