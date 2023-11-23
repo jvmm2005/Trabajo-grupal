@@ -1,5 +1,5 @@
 import random
-from ClasePreguntas import preguntas
+from ClassQuestions import preguntas
 sports_question = [
     preguntas("¿De qué deporte se han tomado expresiones como tirar la toalla o salvado por la campana?", "Boxeo", "Fútbol", "Baloncesto", "Golf"),
     preguntas("¿Cuál es el deporte que se juega en un campo con nueve jugadores por equipo?", "Béisbol", "Fútbol", "Baloncesto", "Hockey"),
