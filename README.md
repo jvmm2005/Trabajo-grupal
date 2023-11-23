@@ -3,16 +3,16 @@
 In this code we make a quizz of some general topic cuestions.
 Science, History, Sports and Art
 ## Execution
-1º 
-##### Download all archives:
+####1º 
+#### Download all archives:
 	-ClassQuestions.py
 	-HistoryCuestions.py
 	-PreguntasArte.py
 	-PreguntasCiencia.py
 	-PreguntasDeporte.py
 	-QuestionOrganization.py
-2º
-##### Execution
+####2º
+#### Start Running
 	-Once executed, you will only have to give some imputs in numbers 1-4
 	-You will recieve Correct/Wrong
 ## Description
