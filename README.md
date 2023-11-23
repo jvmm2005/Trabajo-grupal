@@ -3,7 +3,7 @@
 In this code we make a quizz of some general topic cuestions.
 Science, History, Sports and Art
 ## Execution
-####1º 
+#### 1º 
 #### Download all archives:
 	-ClassQuestions.py
 	-HistoryCuestions.py
@@ -11,7 +11,7 @@ Science, History, Sports and Art
 	-PreguntasCiencia.py
 	-PreguntasDeporte.py
 	-QuestionOrganization.py
-####2º
+#### 2º
 #### Start Running
 	-Once executed, you will only have to give some imputs in numbers 1-4
 	-You will recieve Correct/Wrong
