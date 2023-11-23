@@ -1,5 +1,5 @@
 import random
-from ClasePreguntas import preguntas
+from ClassQuestions import preguntas
 science_questions = [
     preguntas("What is the powerhouse of the cell?", "Mitochondria", "Ribosome", "Nucleus", "Endoplasmic reticulum"),
     preguntas("Which planet is known as the Red Planet?", "Mars", "Venus", "Jupiter", "Mercury"),
