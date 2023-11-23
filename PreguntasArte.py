@@ -1,5 +1,5 @@
 import random
-from ClasePreguntas import preguntas
+from ClassQuestions import preguntas
 art_question = [
     preguntas("¿Quién esculpió 'El Pensador'?", "Rodin", "Miguel Angel", "Bernini", "Moore"),
     preguntas("¿Quién pintó La última cena durante un período de tres años entre 1495 y 1498?", "Leonardo da Vinci", "Michaelangelo", "Botticelli", "Rafael"),
