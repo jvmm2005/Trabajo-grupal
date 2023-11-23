@@ -1,5 +1,5 @@
 import random
-from ClassCuestions import preguntas
+from ClassQuestions import preguntas
 history_cuestions = [
     preguntas("In what year did the First World War begin?", "1914", "1920", "1905", "1932"),
     preguntas("Who was the first President of the United States?", "Thomas Jefferson", "George Washington", "Abraham Lincoln", "John Adams"),
